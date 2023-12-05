@@ -1,0 +1,11 @@
+Model Information:
+* title:	CF-117 Rapier
+* source:	https://sketchfab.com/3d-models/cf-117-rapier-4fe31b30da9b468e80d2b1f069724e93
+* author:	Hangar.b.productions (https://sketchfab.com/hangar.b.productions)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "CF-117 Rapier" (https://sketchfab.com/3d-models/cf-117-rapier-4fe31b30da9b468e80d2b1f069724e93) by Hangar.b.productions (https://sketchfab.com/hangar.b.productions) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
